@@ -1,16 +1,27 @@
-## Hi there 👋
+# Derek Rosenzweig  
+Founder and AI Engineer, Runtime Labs · San Francisco  
 
-<!--
-**dr2633/dr2633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building programmable memory and runtime systems for long-horizon agent planning. My focus is on developing UI and infrastructure that align agent behavior with real-world time, feedback, and memory — enabling grounded, adaptive, and traceable intelligence.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Long-horizon planning UIs and runtime queues  
+- Structured memory traces and feedback integration  
+- Time-based abstractions for scheduling and inference (Tempo Tokens)  
+- FastAPI infrastructure for agent execution and profiling  
+
+## Runtime Labs
+
+At Runtime Labs, we're building the **temporal runtime layer for agents** — transforming static calendars into programmable execution environments. Our system enables agents to plan, reflect, and coordinate over time.
+
+Key components include:
+
+- Chronologue– Temporal runtime compiler and calendar UI  
+- MemPort – Long-term memory interface for structured journaling  
+- Agent Runtime – Execution layer for planning, feedback, and profiling  
+- Tempo Tokens – Time-aware abstractions for agent reasoning (WIP)
+
+## Contact
+
+- [Runtime Labs]([https://chronologue.ai](https://github.com/runtimelabs-inc)  
+- derek@runtimelabs.ai  
