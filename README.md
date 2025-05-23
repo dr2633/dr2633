@@ -1,4 +1,4 @@
-# Derek Rosenzweig  
+### Derek Rosenzweig  
 Founder and AI Engineer, Runtime Labs · San Francisco  
 
 I'm building programmable memory and runtime systems for long-horizon agent planning. My focus is on developing UI and infrastructure that align agent behavior with real-world time, feedback, and memory — enabling grounded, adaptive, and traceable intelligence.
