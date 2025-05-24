@@ -1,7 +1,7 @@
 ### Derek Rosenzweig  
 Founder, Runtime Labs 
 
-I'm building programmable memory and runtime systems for long-horizon agent planning. My focus is on developing UI and infrastructure that align agent behavior with real-world time, feedback, and memory — to build grounded, adaptive, and traceable intelligence.
+I'm building memory and runtime systems for long-horizon agent planning. My focus is on developing UI and infrastructure that align agent behavior with real-world time, feedback, and memory — to build grounded, adaptive, and traceable intelligence.
 
 ### Runtime Labs
 
