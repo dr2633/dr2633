@@ -14,7 +14,7 @@ Key components include:
 
 ### Contact
 
-- [Runtime Labs](https://github.com/runtimelabs-inc)  
+- [Runtime Labs](https://www.runtimelabs.ai/)  
 - derek@runtimelabs.ai
 
 
