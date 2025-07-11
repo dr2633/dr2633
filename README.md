@@ -3,8 +3,6 @@ Founder, Runtime Labs
 
 ### Runtime Labs
 
-Key components include:
-
 - Chronologue– Temporal runtime compiler and calendar UI  
 - MemPort – Long-term memory interface for structured journaling  
 - Agent Runtime – Execution layer for planning, feedback, and profiling  
