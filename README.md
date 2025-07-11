@@ -3,8 +3,6 @@ Founder, Runtime Labs
 
 ### Runtime Labs
 
-At Runtime Labs, we're building the **temporal runtime layer for agents** — transforming static calendars into programmable execution environments. Our system enables agents to plan, reflect, and coordinate over time.
-
 Key components include:
 
 - Chronologue– Temporal runtime compiler and calendar UI  
