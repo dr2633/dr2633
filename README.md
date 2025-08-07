@@ -1,7 +1,5 @@
 ### Derek Rosenzweig  
 
-### Contact
-
 - [Runtime Labs](https://www.runtimelabs.ai/)  
 - derek@runtimelabs.ai
 
