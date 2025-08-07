@@ -1,12 +1,4 @@
 ### Derek Rosenzweig  
-Founder, Runtime Labs 
-
-### Runtime Labs
-
-- Chronologue– Temporal runtime compiler and calendar UI  
-- MemPort – Long-term memory interface for structured journaling  
-- Agent Runtime – Execution layer for planning, feedback, and profiling  
-- Tempo Tokens – Time-grounded tokens for agent reasoning 
 
 ### Contact
 
